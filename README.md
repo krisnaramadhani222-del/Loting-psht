@@ -1,2 +1,1 @@
-# Loting-psht
 index.html
